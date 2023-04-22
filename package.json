@@ -17,7 +17,7 @@
     "express-fileupload": "^1.1.9"
   },
   "devDependencies": {
-    "concurrently": "^4.1.0",
+    "concurrently": "^7.6.0",
     "nodemon": "^2.0.20"
   }
 }
